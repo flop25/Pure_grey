@@ -1,11 +1,11 @@
 <?php
 /*
 Theme Name: Pure_grey
-Version: 1.0.0
+Version: auto
 Description: a subtle  mix of grey inspired web 2.0.
 Theme URI: http://fr.piwigo.org/ext/extension_view.php?eid=445
 Author: flop25
-Author URI: http://www.planete-flop.fr/site.php?acc=file
+Author URI: http://www.planete-flop.fr/
 */
 
 $themeconf = array(
